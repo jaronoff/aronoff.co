@@ -1,3 +1,17 @@
+## To Do List for Aronoff.co blog.
+
+- [ ] Figure out RSync for Webfaction
+- [ ] Get a better theme than that default theme
+- [ ] Write a list of potential blog posts
+- [ ] RTFM for Octopress and Jekyll
+- [x] Init Git and push to GitHub
+
+--------------------------------------------------------------------------
+## OG Octopress Documentation
+--------------------------------------------------------------------------
+
+
+
 ## Octopress 3.0
 
 Note: Octopress 3.0 is in development at https://github.com/octopress/octopress
